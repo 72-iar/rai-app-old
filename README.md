@@ -20,7 +20,7 @@ After that, you should be seeing something like this:
 
 Rename ".env.example" to ".env".
 
-Open terminal and do the following:
+Open a terminal on the vs code and do the following:
 - npm install
 - (wait for it to finish)
 - npm run dev
