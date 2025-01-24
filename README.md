@@ -22,11 +22,13 @@ Rename ".env.example" to ".env"
 
 Open another terminal (dont close the previous one) and do the following:
 - npm install
+- (wait for it to finish)
 - npm run dev
 
 
 Open terminal and do the following:
 - composer install
+- (wait for it to finish)
 - php artisan serve
 
 
