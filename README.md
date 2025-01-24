@@ -34,3 +34,6 @@ Open terminal and do the following:
 
 Click the link provided on the terminal
 (most likely: http://127.0.0.1:8000)
+
+You'll be redirected to your default browser:
+![screenshot](https://github.com/72-iar/rai-app/blob/783846c4ab6234ed0530f99823814db047d3e583/preview.png)
