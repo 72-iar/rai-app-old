@@ -1,3 +1,10 @@
+Before proceeding please download and install the follwoing dependencies:
+Node.js: https://nodejs.org/en
+Composer: https://getcomposer.org/
+
+
+please download the following 
+
 Instructions:
 
 Download and extract the zip to your desired path
