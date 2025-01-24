@@ -2,7 +2,9 @@ Before proceeding please download and install the follwoing dependencies:
 
 Node.js: https://nodejs.org/en
 
-Composer: https://getcomposer.org 
+Composer: https://getcomposer.org
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 Instructions:
 
