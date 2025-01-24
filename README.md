@@ -7,7 +7,8 @@ Open your VS Code.
 In your VS Code click "File" on the top left click "Open Folder" then look for the extracted zip
 
 you should be seeing something like this:
-![screenshot](https://github.com/72-iar/rai-app/blob/08b5d241e6fdeb1e0f046587f99243c0042b00dd/readme-pic-1.png)
+![screenshot](https://github.com/72-iar/rai-app/blob/9f46cd453fedf963eae7c609a55a16408e962235/readme-pic-1.png)
+
 
 Rename ".env.example" to ".env"
 
