@@ -1,4 +1,4 @@
-Before proceeding please download and install the follwoing dependencies:
+Before proceeding please download and install the following dependencies:
 
 Node.js: https://nodejs.org/en
 
