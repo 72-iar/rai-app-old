@@ -1,6 +1,3 @@
-Here’s your code with proper tab spacing:
-
-```vue
 <template>
     <!-- Services Section -->
     <section id="services" class="services section light-background">
