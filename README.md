@@ -15,7 +15,7 @@ Open your VS Code.
 In your VS Code click "File" on the top left click "Open Folder" then look for the extracted zip.
 
 After that, you should be seeing something like this:
-![screenshot](https://github.com/72-iar/rai-app/blob/9f46cd453fedf963eae7c609a55a16408e962235/readme-pic-1.png)
+![screenshot](https://github.com/72-iar/rai-app-old/blob/9f46cd453fedf963eae7c609a55a16408e962235/readme-pic-1.png)
 
 
 Rename ".env.example" to ".env".
@@ -35,4 +35,4 @@ Click the link provided on the terminal.
 (most likely: http://127.0.0.1:8000)
 
 You'll be redirected to your default browser:
-![screenshot](https://github.com/72-iar/rai-app/blob/783846c4ab6234ed0530f99823814db047d3e583/preview.png)
+![screenshot](https://github.com/72-iar/rai-app-old/blob/783846c4ab6234ed0530f99823814db047d3e583/preview.png)
